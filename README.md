@@ -58,6 +58,6 @@ Passionné par la création d'interfaces intuitives et le développement d'appli
 
 ## ✉️ Me contacter
 
-- 💼 **LinkedIn :** (https://www.linkedin.com/in/prescillia-rosart/)
-- 🌐 **Portfolio :** (https://prescillia-rosart.vercel.app/)
+- 💼 **LinkedIn :** https://www.linkedin.com/in/prescillia-rosart/
+- 🌐 **Portfolio :** https://prescillia-rosart.vercel.app/
 - 📧 **Email :** prescillia.rosart@gmail.com
