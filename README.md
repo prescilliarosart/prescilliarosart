@@ -1,4 +1,8 @@
-## Hi👋, I'm Prescillia 
+## Salut, moi c'est Prescillia !👋
+
+Je suis **Développeur Web en herbe** et actuellement à la recherche d'une **alternance dès juillet 2026** (Rythme : 3 semaines en entreprise / 1 semaine en école).
+
+Passionné par la création d'interfaces intuitives et le développement d'applications web robustes, j'aime relever des défis techniques et apprendre de nouvelles technologies au quotidien.
 
 🚀 Stack & Outils
 <p align="left">
