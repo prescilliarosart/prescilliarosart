@@ -1,6 +1,6 @@
 ## Salut, moi c'est Prescillia !👋
 
-Je suis **Développeur Web en herbe** et actuellement à la recherche d'une **alternance dès juillet 2026** (Rythme : 3 semaines en entreprise / 1 semaine en école).
+Je suis **Développeuse Web en herbe** et actuellement à la recherche d'une **alternance dès juillet 2026** (Rythme : 3 semaines en entreprise / 1 semaine en école).
 
 Passionné par la création d'interfaces intuitives et le développement d'applications web robustes, j'aime relever des défis techniques et apprendre de nouvelles technologies au quotidien.
 
@@ -46,13 +46,6 @@ Passionné par la création d'interfaces intuitives et le développement d'appli
 *Développement d’un site internet de vente de fleurs*
 - **Stack :** HTML,CSS, JavaScript, React
 - 🔗 [Lien vers le Repo](https://github.com/prescilliarosart/StrasFleurs)
-
----
-
-## 📊 Mes Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prescilliarosart&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prescilliarosart&layout=compact&theme=radical)
 
 ---
 
