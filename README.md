@@ -35,14 +35,14 @@ Passionné par la création d'interfaces intuitives et le développement d'appli
 ---
 ## 📁 Mes Projets Phares
 
-### 💻 [CoachBoard]
+### 💻 CoachBoard
 *Développement d'une application web de gestion sportive.*
 - **Stack :** React, TypeScript, Node.js, Express et MySQL
 - **Design :** Maquettaire complet réalisé sur Figma avant intégration.
 - 🔗 [Lien vers le Repo / Projet en ligne](https://github.com/prescilliarosart/CoachBoard-projet-front)
 - 🔗 [Lien vers le Repo / Projet en ligne](https://github.com/prescilliarosart/CoachBoard-projet-back)
 
-### 🛒 [StrasFleurs]
+### 🛒 StrasFleurs
 *Développement d’un site internet de vente de fleurs*
 - **Stack :** HTML,CSS, JavaScript, React
 - 🔗 [Lien vers le Repo / Projet en ligne](https://github.com/prescilliarosart/StrasFleurs)
@@ -51,8 +51,6 @@ Passionné par la création d'interfaces intuitives et le développement d'appli
 
 ## 📊 Mes Statistiques GitHub
 
-*(Pense à remplacer `TON_PSEUDO_GITHUB` par ton vrai pseudo dans les liens ci-dessous pour activer les graphiques)*
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prescilliarosart&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prescilliarosart&layout=compact&theme=radical)
 
@@ -60,6 +58,6 @@ Passionné par la création d'interfaces intuitives et le développement d'appli
 
 ## ✉️ Me contacter
 
-- 💼 **LinkedIn :** [Lien vers ton profil LinkedIn](https://www.linkedin.com/in/prescillia-rosart/)
-- 🌐 **Portfolio :** [Lien vers ton site web](https://prescillia-rosart.vercel.app/)
+- 💼 **LinkedIn :** (https://www.linkedin.com/in/prescillia-rosart/)
+- 🌐 **Portfolio :** (https://prescillia-rosart.vercel.app/)
 - 📧 **Email :** prescillia.rosart@gmail.com
