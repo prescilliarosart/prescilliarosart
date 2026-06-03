@@ -39,13 +39,13 @@ Passionné par la création d'interfaces intuitives et le développement d'appli
 *Développement d'une application web de gestion sportive.*
 - **Stack :** React, TypeScript, Node.js, Express et MySQL
 - **Design :** Maquettaire complet réalisé sur Figma avant intégration.
-- 🔗 [Lien vers le Repo / Projet en ligne](https://github.com/prescilliarosart/CoachBoard-projet-front)
-- 🔗 [Lien vers le Repo / Projet en ligne](https://github.com/prescilliarosart/CoachBoard-projet-back)
+- 🔗 [Lien vers le Repo front](https://github.com/prescilliarosart/CoachBoard-projet-front)
+- 🔗 [Lien vers le Repo back](https://github.com/prescilliarosart/CoachBoard-projet-back)
 
 ### 🛒 StrasFleurs
 *Développement d’un site internet de vente de fleurs*
 - **Stack :** HTML,CSS, JavaScript, React
-- 🔗 [Lien vers le Repo / Projet en ligne](https://github.com/prescilliarosart/StrasFleurs)
+- 🔗 [Lien vers le Repo](https://github.com/prescilliarosart/StrasFleurs)
 
 ---
 
