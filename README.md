@@ -6,14 +6,6 @@ Passionnée par la création d'interfaces intuitives et le développement d'appl
 
 ---
 
-## 🚀 À la recherche d'une alternance
-- 📅 **Disponibilité :** Juillet 2026
-- ⏳ **Durée :** 18 mois
-- 📍 **Zone géographique :** Lille / Villeneuve-d'Ascq & alentours (ou Remote)
-- 🎓 **Formation :** Concepteur Développeur d'Applications Ecoconception
-
----
-
 ## 🛠️ Ma Stack Technique
 
 ### Frontend & Langages
